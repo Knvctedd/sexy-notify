@@ -1,4 +1,4 @@
-## np-notify
+## sexy-notify
 # original repostory https://github.com/tnj-development/tnj-notify
 
 ### If you want the qb-core function to have the notifcation system do the following:
